@@ -1,6 +1,6 @@
 # Sudoku-Solver
 **A Sudoku Solver using a backtracking algorithm**
 
-Displays the backtracking algorithm at work through a GUI implmented using Pygame
+Displays a backtracking algorithm at work through a GUI implmented using Pygame
 
-Ability to input a custom sudoku or can randomly generate one to be solved
+Input your own custom sudoku or one will be generated and then the algorithm will solve it
